@@ -23,13 +23,13 @@
 define( 'DB_NAME', 'vercel' );
 
 /** MySQL database username */
-define( 'DB_USER', 'vercel' );
+define( 'DB_USER', 'c9uoqwoyctr6ndopw4iy' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', 'Vercel007' );
+define( 'DB_PASSWORD', 'pscale_pw_PihAGwP3zFgwGIiTp7xF2SIAaGX3tBHY3Jl4nXdzCsn' );
 
 /** MySQL hostname */
-define( 'DB_HOST', 'worksdomain.nl' );
+define( 'DB_HOST', 'northeast.connect.psdb.cloud' );
 
 /** Database Charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
